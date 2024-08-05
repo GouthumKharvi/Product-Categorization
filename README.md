@@ -43,6 +43,7 @@ For the Multiclass Classification of e-commerce products based on their descript
    - Ebooks
    - Toys & School Supplies
    - Footwear
+   - computers
 
 5. **Machine Learning Implementation**: Various Machine Learning algorithms were applied using the scikit-learn library. These included:
    - Logistic Regression (Binary and Multiclass variants)
@@ -135,7 +136,7 @@ o	Test these models on diverse e-commerce datasets available online to assess th
 
 
 
-BUSINESS INSIGHTS
+**BUSINESS INSIGHTS**
 Business Insights
 Improved Product Search and Discoverability:
 
